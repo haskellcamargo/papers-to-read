@@ -18,7 +18,9 @@
 
 #### Techniques
 
+- [Building Extensible Parsers with Camlp4] (Asankhaya Sharma)
 - [Parsing Documentation Comments in Clang] (Dmitri Gribenko)
+- [Generating LR syntax error messages from examples] (Clinton L. Jeffery)
 
 ### Monads
 
@@ -30,6 +32,8 @@
 
 
 [Menhir Reference Manual]: http://gallium.inria.fr/~fpottier/menhir/manual.pdf
+[Building Extensible Parsers with Camlp4]: https://asankhaya.github.io/pdf/BuildingExtensibleParserswithCamlp4.pdf
 [Parsing Documentation Comments in Clang]: https://llvm.org/devmtg/2012-11/Gribenko_CommentParsing.pdf
+[Generating LR syntax error messages from examples]: https://dl.acm.org/citation.cfm?id=937563.937566
 [The Final Pretty Printer]: http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf
 [Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
