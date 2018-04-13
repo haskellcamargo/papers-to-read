@@ -4,8 +4,8 @@
 
 ## Index
 
-- [#compilers](Compilers)
-- [#monads](Monads)
+- [Compilers](#compilers)
+- [Monads](#monads)
 
 ### Compilers
 
