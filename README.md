@@ -21,6 +21,7 @@
 
 ### Design
 
+- [Programming Language Design Concepts] (David Watt, William Findlay)
 - [Smalltalk-80 - The Language and its Implementation] (Adele Goldberg, David Robson)
 
 #### Parser Generators
@@ -58,6 +59,7 @@
 - [Escape From Return-Oriented Programming: Return-oriented Programming without Returns (on the x86)] (Stephen Checkoway, Hovav Shacham)
 
 [Applicative functors and fully transparent higher-order modules]: http://caml.inria.fr/pub/papers/xleroy-applicative_functors-popl95.pdf
+[Programming Language Design Concepts]: http://alvand.basu.ac.ir/~dezfoulian/files/PL/John%20Wiley%20&%20Sons%20-%20Programming%20Language%20Design%20Concepts-%20David%20A.%20Watt,%20William%20Findlay,%20473s,%20I.pdf
 [Smalltalk-80 - The Language and its Implementation]: http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf
 [Menhir Reference Manual]: http://gallium.inria.fr/~fpottier/menhir/manual.pdf
 [Building Extensible Parsers with Camlp4]: https://asankhaya.github.io/pdf/BuildingExtensibleParserswithCamlp4.pdf
