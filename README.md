@@ -73,5 +73,5 @@
 [On Understanding Types, Data Abstraction, and Polymorphism]: http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf
 [Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
 [Type Systems]: http://lucacardelli.name/papers/typesystems.pdf
-[ASIX - An Interpreter Written in TEX]: https://www.tug.org/TUGboat/tb11-3/tb29greene.pdf
+[BASIX - An Interpreter Written in TEX]: https://www.tug.org/TUGboat/tb11-3/tb29greene.pdf
 [Escape From Return-Oriented Programming: Return-oriented Programming without Returns (on the x86)]: http://cseweb.ucsd.edu/~hovav/dist/noret.pdf
