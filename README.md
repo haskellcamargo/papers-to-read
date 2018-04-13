@@ -11,7 +11,7 @@
 - [Monads](#monads)
 - [Theorem Proving](#theorem-proving)
 - [Type Theory](#type-theory)
-- [Virtual Machines(#virtual-machines)
+- [Virtual Machines](#virtual-machines)
 
 ### Algebra
 
