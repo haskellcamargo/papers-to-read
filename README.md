@@ -9,6 +9,7 @@
   - [Parser Generators](#parser-generators)
   - [Techniques](#techniques)
 - [Monads](#monads)
+- [Programming Paradigms](#programming-paradigms)
 - [Theorem Proving](#theorem-proving)
 - [Type Theory](#type-theory)
 - [Virtual Machines](#virtual-machines)
@@ -42,6 +43,10 @@
 - [Monads Need Not To Be Endofunctors] (Thorsten Altenkirch, James Chapman, and Tarmo Uustalu)
 - [The Final Pretty Printer] (David Christiansen, David Darais, Weixi Ma)
 
+### Programming Paradigms
+
+- [Programming Paradigms for Dummies: What Every Programmer Should Know] (Peter Van Roy)
+
 ### Theorem Proving
 
 - [Programming in IDRIS: A Tutorial] (The IDRIS Community)
@@ -72,6 +77,7 @@
 [From Monads to Effects and Back]: http://goto.ucsd.edu/~nvazou/koka/padl16.pdf
 [Monads Need Not To Be Endofunctors]: http://www.cs.nott.ac.uk/~psztxa/publ/Relative_Monads.pdf
 [The Final Pretty Printer]: http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf
+[Programming Paradigms for Dummies: What Every Programmer Should Know]: https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
 [Programming in IDRIS: A Tutorial]: https://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf
 [The C standard formalized in Coq]: https://robbertkrebbers.nl/research/thesis.pdf
 [Basic Polymorphic Typechecking]: http://lucacardelli.name/Papers/BasicTypechecking.pdf
