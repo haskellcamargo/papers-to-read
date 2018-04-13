@@ -55,6 +55,7 @@
 ### Type Theory
 
 - [Basic Polymorphic Typechecking] (Luca Cardelli)
+- [On Model Subtyping] (Clément Guy, Benoit Combemale, Steven Derrien, James Steel, Jean-Marc Jézéquel)
 - [On Understanding Types, Data Abstraction, and Polymorphism] (Luca Cardelli, Peter Wegner)
 - [Type Inference for Records in a Natural Extension of ML] (Didier Rémy)
 - [Type Systems] (Luca Cardelli)
@@ -81,6 +82,7 @@
 [Programming in IDRIS: A Tutorial]: https://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf
 [The C standard formalized in Coq]: https://robbertkrebbers.nl/research/thesis.pdf
 [Basic Polymorphic Typechecking]: http://lucacardelli.name/Papers/BasicTypechecking.pdf
+[On Model Subtyping]: https://hal.inria.fr/hal-00695034/document
 [On Understanding Types, Data Abstraction, and Polymorphism]: http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf
 [Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
 [Type Systems]: http://lucacardelli.name/papers/typesystems.pdf
