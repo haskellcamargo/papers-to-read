@@ -11,4 +11,7 @@
 
 ### Monads
 
-- [http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf](The Final Pretty Printer) (David Christiansen, David Darais, Weixi Ma)
+- [The Final Pretty Printer] (David Christiansen, David Darais, Weixi Ma)
+
+
+[The Final Pretty Printer]: http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf
