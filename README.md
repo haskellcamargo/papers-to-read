@@ -53,6 +53,7 @@
 - [On Understanding Types, Data Abstraction, and Polymorphism] (Luca Cardelli, Peter Wegner)
 - [Type Inference for Records in a Natural Extension of ML] (Didier Rémy)
 - [Type Systems] (Luca Cardelli)
+- [Type Systems for Object-Oriented Programming Languages] (Kathleen Shanahan Fisher)
 
 ### Virtual Machines
 
@@ -77,5 +78,6 @@
 [On Understanding Types, Data Abstraction, and Polymorphism]: http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf
 [Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
 [Type Systems]: http://lucacardelli.name/papers/typesystems.pdf
+[Type Systems for Object-Oriented Programming Languages]: http://i.stanford.edu/pub/cstr/reports/cs/tr/98/1602/CS-TR-98-1602.pdf
 [BASIX - An Interpreter Written in TEX]: https://www.tug.org/TUGboat/tb11-3/tb29greene.pdf
 [Escape From Return-Oriented Programming: Return-oriented Programming without Returns (on the x86)]: http://cseweb.ucsd.edu/~hovav/dist/noret.pdf
