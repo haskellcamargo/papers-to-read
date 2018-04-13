@@ -43,7 +43,9 @@
 ### Type Theory
 
 - [Basic Polymorphic Typechecking] (Luca Cardelli)
+- [On Understanding Types, Data Abstraction, and Polymorphism] (Luca Cardelli, Peter Wegner)
 - [Type Inference for Records in a Natural Extension of ML] (Didier Rémy)
+- [Type Systems] (Luca Cardelli)
 
 [Applicative functors and fully transparent higher-order modules]: http://caml.inria.fr/pub/papers/xleroy-applicative_functors-popl95.pdf
 [Menhir Reference Manual]: http://gallium.inria.fr/~fpottier/menhir/manual.pdf
@@ -57,4 +59,6 @@
 [The Final Pretty Printer]: http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf
 [Programming in IDRIS: A Tutorial]: https://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf
 [Basic Polymorphic Typechecking]: http://lucacardelli.name/Papers/BasicTypechecking.pdf
+[On Understanding Types, Data Abstraction, and Polymorphism]: http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf
 [Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
+[Type Systems]: http://lucacardelli.name/papers/typesystems.pdf
