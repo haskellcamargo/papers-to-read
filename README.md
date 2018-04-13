@@ -1,6 +1,6 @@
 # Papers to Read
 
-> My curated list of papers I need to read (or already did)
+> My curated list of papers I need to read (or already did), mostly about PLT. There are also some slides and books when I find them useful enough.
 
 ## Index
 
@@ -18,6 +18,10 @@
 - [Applicative functors and fully transparent higher-order modules] (Xavier Leroy)
 
 ### Compilers
+
+### Design
+
+- [Smalltalk-80 - The Language and its Implementation] (Adele Goldberg, David Robson)
 
 #### Parser Generators
 
@@ -50,9 +54,11 @@
 
 ### Virtual Machines
 
+- [BASIX - An Interpreter Written in TEX] (Andrew Marc Greene)
 - [Escape From Return-Oriented Programming: Return-oriented Programming without Returns (on the x86)] (Stephen Checkoway, Hovav Shacham)
 
 [Applicative functors and fully transparent higher-order modules]: http://caml.inria.fr/pub/papers/xleroy-applicative_functors-popl95.pdf
+[Smalltalk-80 - The Language and its Implementation]: http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf
 [Menhir Reference Manual]: http://gallium.inria.fr/~fpottier/menhir/manual.pdf
 [Building Extensible Parsers with Camlp4]: https://asankhaya.github.io/pdf/BuildingExtensibleParserswithCamlp4.pdf
 [Design and Implementation of Generics for the .NET Common Language Runtime]: https://www.microsoft.com/en-us/research/wp-content/uploads/2001/01/designandimplementationofgenerics.pdf
@@ -67,4 +73,5 @@
 [On Understanding Types, Data Abstraction, and Polymorphism]: http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf
 [Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
 [Type Systems]: http://lucacardelli.name/papers/typesystems.pdf
+[ASIX - An Interpreter Written in TEX]: https://www.tug.org/TUGboat/tb11-3/tb29greene.pdf
 [Escape From Return-Oriented Programming: Return-oriented Programming without Returns (on the x86)]: http://cseweb.ucsd.edu/~hovav/dist/noret.pdf
