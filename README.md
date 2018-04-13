@@ -11,6 +11,7 @@
 - [Monads](#monads)
 - [Theorem Proving](#theorem-proving)
 - [Type Theory](#type-theory)
+- [Virtual Machines(#virtual-machines)
 
 ### Algebra
 
@@ -33,7 +34,7 @@
 ### Monads
 
 - [From Monads to Effects and Back] (Niki Vazou, Daan Leijen)
-- [Monads Need Not To Be Endofunctors] (Thorsten Altenkirch, James Chapman, and Tarmo Uustalu2)
+- [Monads Need Not To Be Endofunctors] (Thorsten Altenkirch, James Chapman, and Tarmo Uustalu)
 - [The Final Pretty Printer] (David Christiansen, David Darais, Weixi Ma)
 
 ### Theorem Proving
@@ -46,6 +47,10 @@
 - [On Understanding Types, Data Abstraction, and Polymorphism] (Luca Cardelli, Peter Wegner)
 - [Type Inference for Records in a Natural Extension of ML] (Didier Rémy)
 - [Type Systems] (Luca Cardelli)
+
+### Virtual Machines
+
+- [Escape From Return-Oriented Programming: Return-oriented Programming without Returns (on the x86)] (Stephen Checkoway, Hovav Shacham)
 
 [Applicative functors and fully transparent higher-order modules]: http://caml.inria.fr/pub/papers/xleroy-applicative_functors-popl95.pdf
 [Menhir Reference Manual]: http://gallium.inria.fr/~fpottier/menhir/manual.pdf
@@ -62,3 +67,4 @@
 [On Understanding Types, Data Abstraction, and Polymorphism]: http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf
 [Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
 [Type Systems]: http://lucacardelli.name/papers/typesystems.pdf
+[Escape From Return-Oriented Programming: Return-oriented Programming without Returns (on the x86)]: http://cseweb.ucsd.edu/~hovav/dist/noret.pdf
