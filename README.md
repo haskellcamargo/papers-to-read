@@ -45,6 +45,7 @@
 ### Theorem Proving
 
 - [Programming in IDRIS: A Tutorial] (The IDRIS Community)
+- [The C standard formalized in Coq] (Robbert Jan Krebbers)
 
 ### Type Theory
 
@@ -71,6 +72,7 @@
 [Monads Need Not To Be Endofunctors]: http://www.cs.nott.ac.uk/~psztxa/publ/Relative_Monads.pdf
 [The Final Pretty Printer]: http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf
 [Programming in IDRIS: A Tutorial]: https://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf
+[The C standard formalized in Coq]: https://robbertkrebbers.nl/research/thesis.pdf
 [Basic Polymorphic Typechecking]: http://lucacardelli.name/Papers/BasicTypechecking.pdf
 [On Understanding Types, Data Abstraction, and Polymorphism]: http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf
 [Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
