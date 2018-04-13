@@ -9,6 +9,7 @@
   - [Parser Generators](#parser-generators)
   - [Techniques](#techniques)
 - [Monads](#monads)
+- [Theorem Proving](#theorem-proving)
 - [Type Theory](#type-theory)
 
 ### Algebra
@@ -35,6 +36,10 @@
 - [Monads Need Not To Be Endofunctors] (Thorsten Altenkirch, James Chapman, and Tarmo Uustalu2)
 - [The Final Pretty Printer] (David Christiansen, David Darais, Weixi Ma)
 
+### Theorem Proving
+
+- [Programming in IDRIS: A Tutorial] (The IDRIS Community)
+
 ### Type Theory
 
 - [Basic Polymorphic Typechecking] (Luca Cardelli)
@@ -50,5 +55,6 @@
 [From Monads to Effects and Back]: http://goto.ucsd.edu/~nvazou/koka/padl16.pdf
 [Monads Need Not To Be Endofunctors]: http://www.cs.nott.ac.uk/~psztxa/publ/Relative_Monads.pdf
 [The Final Pretty Printer]: http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf
+[Programming in IDRIS: A Tutorial]: https://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf
 [Basic Polymorphic Typechecking]: http://lucacardelli.name/Papers/BasicTypechecking.pdf
 [Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
