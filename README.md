@@ -8,6 +8,7 @@
   - [Parser Generators](#parser-generators)
   - [Techniques](#techniques)
 - [Monads](#monads)
+- [Type Theory](#type-theory)
 
 ### Compilers
 
@@ -23,6 +24,12 @@
 
 - [The Final Pretty Printer] (David Christiansen, David Darais, Weixi Ma)
 
+### Type Theory
+
+- [Type Inference for Records in a Natural Extension of ML] (Didier Rémy)
+
+
 [Menhir Reference Manual]: http://gallium.inria.fr/~fpottier/menhir/manual.pdf
 [Parsing Documentation Comments in Clang]: https://llvm.org/devmtg/2012-11/Gribenko_CommentParsing.pdf
 [The Final Pretty Printer]: http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf
+[Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
