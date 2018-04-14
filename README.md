@@ -11,6 +11,7 @@
   - [Techniques](#techniques)
 - [Hardware](#hardware)
 - [Monads](#monads)
+- [Parallel Programming](#parallel-programming)
 - [Programming Paradigms](#programming-paradigms)
 - [Theorem Proving](#theorem-proving)
 - [Type Theory](#type-theory)
@@ -49,6 +50,10 @@
 - [Monads Need Not To Be Endofunctors] (Thorsten Altenkirch, James Chapman, and Tarmo Uustalu)
 - [The Final Pretty Printer] (David Christiansen, David Darais, Weixi Ma)
 
+### Parallel Programming
+
+- [Haskell on a Shared-Memory Multiprocessor] (Tim Harris, Simon Marlow, Simon Peyton Jones)
+
 ### Programming Paradigms
 
 - [Programming Paradigms for Dummies: What Every Programmer Should Know] (Peter Van Roy)
@@ -85,6 +90,7 @@
 [From Monads to Effects and Back]: http://goto.ucsd.edu/~nvazou/koka/padl16.pdf
 [Monads Need Not To Be Endofunctors]: http://www.cs.nott.ac.uk/~psztxa/publ/Relative_Monads.pdf
 [The Final Pretty Printer]: http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf
+[Haskell on a Shared-Memory Multiprocessor]: https://www.microsoft.com/en-us/research/wp-content/uploads/2005/09/2005-haskell.pdf
 [Programming Paradigms for Dummies: What Every Programmer Should Know]: https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
 [Programming in IDRIS: A Tutorial]: https://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf
 [The C standard formalized in Coq]: https://robbertkrebbers.nl/research/thesis.pdf
