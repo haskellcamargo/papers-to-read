@@ -9,6 +9,7 @@
   - [Design](#design)
   - [Parser Generators](#parser-generators)
   - [Techniques](#techniques)
+  - [Tools](#tools)
 - [Hardware](#hardware)
 - [Monads](#monads)
 - [Parallel Programming](#parallel-programming)
@@ -39,6 +40,10 @@
 - [Exception Handling for Error Reporting in Parsing Expression Grammars] (André Murbach Maidl, Fabio Mascarenhas, Roberto Ierusalimschy)
 - [Parsing Documentation Comments in Clang] (Dmitri Gribenko)
 - [Generating LR syntax error messages from examples] (Clinton L. Jeffery)
+
+#### Tools
+
+- [From Bytecode to Javascript: the Js_of_ocaml Compiler] (Jérôme Vouillon, Vincent Balat)
 
 ### Hardware
 
@@ -88,6 +93,7 @@
 [Exception Handling for Error Reporting in Parsing Expression Grammars]: http://www.inf.puc-rio.br/~roberto/docs/sblp2013-1.pdf
 [Parsing Documentation Comments in Clang]: https://llvm.org/devmtg/2012-11/Gribenko_CommentParsing.pdf
 [Generating LR syntax error messages from examples]: https://dl.acm.org/citation.cfm?id=937563.937566
+[From Bytecode to Javascript: the Js_of_ocaml Compiler]: https://www.irif.fr/~balat/publications/vouillon_balat-js_of_ocaml.pdf
 [Lava: Hardware Design in Haskell]: http://www.cse.chalmers.se/edu/year/2012/course/TDA956/Papers/Lava98.pdf
 [From Monads to Effects and Back]: http://goto.ucsd.edu/~nvazou/koka/padl16.pdf
 [Monads Need Not To Be Endofunctors]: http://www.cs.nott.ac.uk/~psztxa/publ/Relative_Monads.pdf
