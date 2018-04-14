@@ -76,6 +76,7 @@
 
 - [BASIX - An Interpreter Written in TEX] (Andrew Marc Greene)
 - [Escape From Return-Oriented Programming: Return-oriented Programming without Returns (on the x86)] (Stephen Checkoway, Hovav Shacham)
+- [mov is Turing-complete] (Stephen Dolan)
 
 [Applicative functors and fully transparent higher-order modules]: http://caml.inria.fr/pub/papers/xleroy-applicative_functors-popl95.pdf
 [Programming Language Design Concepts]: http://alvand.basu.ac.ir/~dezfoulian/files/PL/John%20Wiley%20&%20Sons%20-%20Programming%20Language%20Design%20Concepts-%20David%20A.%20Watt,%20William%20Findlay,%20473s,%20I.pdf
@@ -102,3 +103,4 @@
 [Type Systems for Object-Oriented Programming Languages]: http://i.stanford.edu/pub/cstr/reports/cs/tr/98/1602/CS-TR-98-1602.pdf
 [BASIX - An Interpreter Written in TEX]: https://www.tug.org/TUGboat/tb11-3/tb29greene.pdf
 [Escape From Return-Oriented Programming: Return-oriented Programming without Returns (on the x86)]: http://cseweb.ucsd.edu/~hovav/dist/noret.pdf
+[mov is Turing-complete]: https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf
