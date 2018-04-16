@@ -74,6 +74,7 @@
 - [On Model Subtyping] (Clément Guy, Benoit Combemale, Steven Derrien, James Steel, Jean-Marc Jézéquel)
 - [On Understanding Types, Data Abstraction, and Polymorphism] (Luca Cardelli, Peter Wegner)
 - [Programming in Homotopy Type Theory] (Dan Licata, Robert Harper)
+- [Type Inference Algorithms] (S. Saeidi Mobarakeh)
 - [Type Inference for Records in a Natural Extension of ML] (Didier Rémy)
 - [Type Systems] (Luca Cardelli)
 - [Type Systems for Object-Oriented Programming Languages] (Kathleen Shanahan Fisher)
@@ -106,6 +107,7 @@
 [On Model Subtyping]: https://hal.inria.fr/hal-00695034/document
 [On Understanding Types, Data Abstraction, and Polymorphism]: http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf
 [Programming in Homotopy Type Theory]: http://dlicata.web.wesleyan.edu/pubs/lh122tttalks/lh12wg2.8.pdf
+[Type Inference Algorithms]: http://www.win.tue.nl/~hzantema/semssm.pdf
 [Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
 [Type Systems]: http://lucacardelli.name/papers/typesystems.pdf
 [Type Systems for Object-Oriented Programming Languages]: http://i.stanford.edu/pub/cstr/reports/cs/tr/98/1602/CS-TR-98-1602.pdf
