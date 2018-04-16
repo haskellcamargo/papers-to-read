@@ -78,6 +78,7 @@
 - [Type Inference for Records in a Natural Extension of ML] (Didier Rémy)
 - [Type Systems] (Luca Cardelli)
 - [Type Systems for Object-Oriented Programming Languages] (Kathleen Shanahan Fisher)
+- [Why Dependent Types Matter] (Thorsten Altenkirch, Conor McBride, James McKinna)
 
 ### Virtual Machines
 
@@ -111,6 +112,7 @@
 [Type Inference for Records in a Natural Extension of ML]: https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf
 [Type Systems]: http://lucacardelli.name/papers/typesystems.pdf
 [Type Systems for Object-Oriented Programming Languages]: http://i.stanford.edu/pub/cstr/reports/cs/tr/98/1602/CS-TR-98-1602.pdf
+[Why Dependent Types Matter]: http://www.cs.nott.ac.uk/~psztxa/publ/ydtm.pdf
 [BASIX - An Interpreter Written in TEX]: https://www.tug.org/TUGboat/tb11-3/tb29greene.pdf
 [Escape From Return-Oriented Programming: Return-oriented Programming without Returns (on the x86)]: http://cseweb.ucsd.edu/~hovav/dist/noret.pdf
 [mov is Turing-complete]: https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf
