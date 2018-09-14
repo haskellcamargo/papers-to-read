@@ -45,6 +45,10 @@
 
 - [From Bytecode to Javascript: the Js_of_ocaml Compiler] (Jérôme Vouillon, Vincent Balat)
 
+### Effects
+
+- [Context-aware programming languages] (Tomas Petricek)
+
 ### Hardware
 
 - [Lava: Hardware Design in Haskell] (Satnam Singh)
@@ -97,6 +101,7 @@
 [Parsing Documentation Comments in Clang]: https://llvm.org/devmtg/2012-11/Gribenko_CommentParsing.pdf
 [Generating LR syntax error messages from examples]: https://dl.acm.org/citation.cfm?id=937563.937566
 [From Bytecode to Javascript: the Js_of_ocaml Compiler]: https://www.irif.fr/~balat/publications/vouillon_balat-js_of_ocaml.pdf
+[Context-aware programming languages]: http://tomasp.net/academic/theses/coeffects/thesis-final.pdf
 [Lava: Hardware Design in Haskell]: http://www.cse.chalmers.se/edu/year/2012/course/TDA956/Papers/Lava98.pdf
 [From Monads to Effects and Back]: http://goto.ucsd.edu/~nvazou/koka/padl16.pdf
 [Monads Need Not To Be Endofunctors]: http://www.cs.nott.ac.uk/~psztxa/publ/Relative_Monads.pdf
