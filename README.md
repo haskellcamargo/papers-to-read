@@ -65,6 +65,7 @@
 
 ### Theorem Proving
 
+- [Generic Environments in Coq] (Emmanuel Polonowsky)
 - [Programming in IDRIS: A Tutorial] (The IDRIS Community)
 - [The C standard formalized in Coq] (Robbert Jan Krebbers)
 
@@ -102,9 +103,11 @@
 [The Final Pretty Printer]: http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf
 [Haskell on a Shared-Memory Multiprocessor]: https://www.microsoft.com/en-us/research/wp-content/uploads/2005/09/2005-haskell.pdf
 [Programming Paradigms for Dummies: What Every Programmer Should Know]: https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
+[Generic Environments in Coq]: http://www.cs.ru.nl/~spitters/coqw_files/paper_2.pdf
 [Programming in IDRIS: A Tutorial]: https://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf
 [The C standard formalized in Coq]: https://robbertkrebbers.nl/research/thesis.pdf
 [Basic Polymorphic Typechecking]: http://lucacardelli.name/Papers/BasicTypechecking.pdf
+
 [On Model Subtyping]: https://hal.inria.fr/hal-00695034/document
 [On Understanding Types, Data Abstraction, and Polymorphism]: http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf
 [Programming in Homotopy Type Theory]: http://dlicata.web.wesleyan.edu/pubs/lh122tttalks/lh12wg2.8.pdf
